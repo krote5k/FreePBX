@@ -35,7 +35,7 @@
 
 narg=$#
 
-days=7
+days=30
 vm_dir="/var/spool/asterisk/voicemail/"
 
 regexp="^([0-9]*(,)?)+$"
